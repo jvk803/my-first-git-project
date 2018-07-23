@@ -6,5 +6,8 @@
 </head>
 <body>
 	<form action=""><label for=""></label><input type="text"></form>
+	<script>
+		alert();
+	</script>
 </body>
 </html>
